@@ -26,7 +26,8 @@ Note: This project is created with the help of AI.
 
 ## Project Overview  
 - Occasionally we need to create or think of a password in a hurry. This website helps you to create or think of a password quickly to save your time.
-<img href="./assets/image.png">
+![PasswordGenerator](./assets/image.png)
+
 
 ---
 
